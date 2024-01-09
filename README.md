@@ -1,0 +1,1 @@
+# GCN-for-Modeling-CO2RR-catalyst-High-Entropy-Alloys
